@@ -1,0 +1,27 @@
+body    {
+        font-family: sans-serif;
+        color:black;
+        font-size: 25px;
+    background-image: url(images/background.html)
+        background-size:cover;
+        width: 50%;
+        margin: auto
+}
+h1{background-color: #b3ecec;
+border-bottom: solid 3px black;
+}
+    .baslik {
+        color:red;
+    }
+    p {
+        text-align:center;
+    }
+    
+    
+img{
+                    display: black;
+                    width:60;
+                    border:dotted 5px black;
+                    border-radius: 10%;
+                    margin:auto;
+        }
